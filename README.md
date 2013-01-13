@@ -2,7 +2,7 @@ zf.kdapp
 ========
 
 
-# WARNING
+WARNING
 Not stable
 
 ZendFramework Application Installer For Koding.com
